@@ -21,7 +21,7 @@
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
     -->
-	<feature name="https://api.phonegap.com/1.0/device
+	<feature name="http://api.phonegap.com/1.0/device"/>
 	
     <preference name="permissions"                value="none"/>
 
